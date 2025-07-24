@@ -1,1 +1,31 @@
 
+# Park-Me
+
+Park-Me is a simple and efficient parking app that helps users quickly find the nearest parking lots, view real-time spot availability, compare prices, and read genuine reviews from other users. Say goodbye to endless searching and circling — Park-Me puts all the information you need right at your fingertips.
+
+## Features
+
+- **Find Nearest Parking:** Instantly locate the closest parking lots based on your current location.
+- **Live Availability:** View how many spots are available in each lot in real-time.
+- **Price Comparison:** Check and compare parking prices before making your choice.
+- **User Reviews:** Read feedback and reviews from other people about each parking lot.
+- **Simple Interface:** Easy-to-use design for a fast and stress-free experience.
+
+## How It Works
+
+1. **Open Park-Me:** The app will request your location to show nearby parking lots.
+2. **Browse Lots:** See a list or map view of nearby parking options with availability and pricing.
+3. **Check Reviews:** Tap on any parking lot to see honest reviews and ratings from other drivers.
+4. **Navigate & Park:** Select your spot and follow directions to the lot.
+
+## Contributing
+
+Contributions are welcome! Please open issues and pull requests for new features, bug fixes, or suggestions.
+
+## License
+
+[Specify license, e.g. MIT, Apache 2.0, etc.]
+
+---
+
+**Park-Me — Find parking, fast and easy!**
